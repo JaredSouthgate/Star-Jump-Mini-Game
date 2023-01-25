@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public GameObject platformPrefab;
     
-    public int platformCount = 300;
+    public int platformCount = 500;
 
     // Start is called before the first frame update
     void Start()
