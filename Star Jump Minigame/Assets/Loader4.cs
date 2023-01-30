@@ -2,12 +2,12 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
-public class Loader1 : MonoBehaviour
+public class Loader4 : MonoBehaviour
 {
 
-    public void PlayerSelect()
+    public void CharSelec()
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(2);
         
     }
 
